@@ -56,15 +56,15 @@
 - **BatchVideoDownloader (.HTA)** — Descarga masiva con `yt-dlp`/`aria2c`, colas y reintentos.  
   <sub>Windows HTA · Scripts · Automatización</sub>
 
-> 💡 Fija (“pin”) estos repos desde **Customize your pins** en tu perfil.
+
 
 ---
 
 ### 📈 Métricas (opcionales)
 <!-- GitHub Readme Stats por anuraghazra (puedes quitar si no te gusta tener imágenes externas) -->
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_rank=true" alt="Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8" alt="Top Langs">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ards&show_icons=true&hide_title=true&hide_rank=true" alt="Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkds&layout=compact&langs_count=8" alt="Top Langs">
 </p>
 
 ---
